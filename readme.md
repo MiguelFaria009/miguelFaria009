@@ -1,4 +1,4 @@
-<h1 align="center">Miguel D'Alessandro Faria</h1>
+<h1 align="center">Miguel Faria</h1>
 <p align="center">
   <strong>Desenvolvedor Full-Stack & Especialista em Hospedagem</strong>
 </p>
