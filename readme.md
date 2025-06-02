@@ -12,7 +12,7 @@
 
 ### 👋 Sobre
 
-Sou apaixonado por tecnologia e soluções escaláveis. Atuo como desenvolvedor full-stack há mais de 7 anos, com foco em PHP, WordPress, infraestrutura Linux e automação de hospedagem web. Fundador da <a href="https://www.comerciodosite.com.br/portfolio">Comércio do Site</a>, já entreguei dezenas de projetos inovadores, combinando backend robusto, integrações API e alta performance.
+Atuo como desenvolvedor full-stack há mais de 7 anos, com foco em PHP, WordPress, infraestrutura Linux e automação de hospedagem web. Fundador da <a href="https://www.comerciodosite.com.br/portfolio">Comércio do Site</a>, já entreguei dezenas de projetos inovadores, combinando backend robusto, integrações API e alta performance.
 
 ---
 
